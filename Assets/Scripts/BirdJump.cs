@@ -8,7 +8,7 @@ public class BirdJump : MonoBehaviour{
 	// Use this for initialization
 	void Start (){
 		rigidbody2D = GetComponent<Rigidbody2D>();
-		//git test
+		//git test 222
 	}
 
 	public void AddForce(Vector2 force){
