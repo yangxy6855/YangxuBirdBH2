@@ -1,0 +1,202 @@
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/ConditionalExpression.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/ConditionalExpressionEditor.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/nunit.framework.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/PlayMaker.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/PlayMakerEditor.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/PlayMakerEditorResources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/System.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/System.Xml.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Mono.Security.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Advertisements.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TestRunner.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TestRunner.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/nunit.framework.pdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/nunit.framework.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.Analytics.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Analytics.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Purchasing.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.VR.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEngine.VR.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/PlayMaker.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/PlayMakerEditor.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/es-ES/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/ja/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/it/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/zh-CN/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/zh-TW/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/pt-BR/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/nl/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/de/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/fr/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/sv-SE/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/Temp/bin/Debug/tr/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/New Unity Project 2/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+/Users/yangxy/unityProject/New Unity Project 2/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+/Users/yangxy/unityProject/New Unity Project 2/obj/Debug/Assembly-CSharp-Editor.csproj.CopyComplete
+/Users/yangxy/unityProject/New Unity Project 2/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/yangxy/unityProject/New Unity Project 2/obj/Debug/Assembly-CSharp-Editor.pdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Assembly-CSharp-Editor.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Assembly-CSharp-Editor.pdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/ConditionalExpression.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/ConditionalExpressionEditor.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/nunit.framework.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/PlayMaker.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/PlayMakerEditor.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/PlayMakerEditorResources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/System.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/System.Xml.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Mono.Security.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Advertisements.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TestRunner.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TestRunner.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/nunit.framework.pdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/nunit.framework.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.Analytics.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Analytics.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Purchasing.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.VR.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEngine.VR.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/PlayMaker.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/PlayMakerEditor.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/es-ES/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/ja/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/it/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/zh-CN/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/zh-TW/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/pt-BR/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/nl/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/de/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/fr/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/sv-SE/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/Temp/bin/Debug/tr/PlayMakerEditorResources.resources.dll
+/Users/yangxy/unityProject/YangxyBird/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+/Users/yangxy/unityProject/YangxyBird/obj/Debug/Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
+/Users/yangxy/unityProject/YangxyBird/obj/Debug/Assembly-CSharp-Editor.csproj.CopyComplete
+/Users/yangxy/unityProject/YangxyBird/obj/Debug/Assembly-CSharp-Editor.dll
+/Users/yangxy/unityProject/YangxyBird/obj/Debug/Assembly-CSharp-Editor.pdb
